@@ -13,3 +13,4 @@ yarn-error.log*
 *.njsproj
 *.sln
 .directory
+/home/manuver/web/boilerplates/vue.js/vueapp/node_modules/
